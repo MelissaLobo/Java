@@ -1,5 +1,5 @@
 package estudos;
-   
+
 import org.junit.Test;
 
 public class Arrays {
