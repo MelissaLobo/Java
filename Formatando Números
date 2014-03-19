@@ -38,8 +38,6 @@ public class FormatandoNumeros {
 		String hora = String.format("%tr", new Date());
 		System.out.println(hora);
 	}
-		
-
 	
 
 }
